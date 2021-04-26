@@ -1,0 +1,52 @@
+h1 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 16vw;
+  color: #fee440;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+h2 {
+  padding: 0px;
+  margin: 0px;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 3vw;
+}
+
+header {
+  background-color: #f15bb5;
+}
+
+footer {
+  border: 3px solid white;
+  padding: 0px;
+  margin: 0px;
+  background-color: grey;
+}
+
+.nav {
+  display: flex;
+}
+
+.color {
+  width: 15vw;
+  height: 15vw;
+  border-radius: 60vw;
+  margin: 1vw;
+}
+
+.one {
+  background-color: #00f5d4;
+  margin: 1vw;
+}
+
+.two {
+  background-color: #9b5de5;
+
+  margin: 1vw;
+}
+
+.three {
+  background-color: #ff7517;
+  margin: 1vw;
+}
